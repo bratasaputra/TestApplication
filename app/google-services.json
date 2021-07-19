@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707848786828",
+    "project_id": "brataplayground",
+    "storage_bucket": "brataplayground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707848786828:android:8c3afa05ee0ea08c7d7ca9",
+        "android_client_info": {
+          "package_name": "com.live.bratasaputra.testapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707848786828-0jcib76saiosd91bhq0icvefpfjsvbhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5vgkpkZrWDxmgwpDoCSiRbN6UQXwoPu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707848786828-0jcib76saiosd91bhq0icvefpfjsvbhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
